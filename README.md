@@ -1,1 +1,1 @@
-# semaforo
+# Semáforo
